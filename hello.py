@@ -14,7 +14,7 @@ items = ['apple', 'banans', 'cherry', 'apricot', 'text', 'coconut', 'date', 'eld
 # Third step is dry run the algorithm with an example
 
 # Fourth step is to implement the algorithm means write the code
-a = 1
+a = 2
 def group_items(items):
     result = {}
     for item in items:
