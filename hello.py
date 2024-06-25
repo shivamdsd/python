@@ -1,4 +1,4 @@
-items = ['apple', 'banans', 'cherry', 'apricot', 'blueberry', 'coconut', 'date', 'elderberry', 'fig', 'grape', 'honeydew', 'kiwi', 'lemon', 'mango', 'nectarine', 'orange', 'papaya', 'quince', 'raspberry', 'strawberry', 'tangerine', 'watermelon', 'zucchini']
+items = ['apple', 'banans', 'cherry', 'apricot', 'text', 'coconut', 'date', 'elderberry', 'fig', 'grape', 'honeydew', 'kiwi', 'lemon', 'mango', 'nectarine', 'orange', 'papaya', 'quince', 'raspberry', 'strawberry', 'tangerine', 'watermelon', 'zucchini']
 
 # First step is understanding the problem
 
